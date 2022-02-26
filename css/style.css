@@ -391,6 +391,7 @@ header .navbar a:hover{
 
 .footer span{
     color: var(--green);
+    cursor: pointer;
 }
 
 /** media queries **/
